@@ -6,7 +6,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [Neko](https://github.com/Neko)
+* Keyboard Maintainer: [Neko](https://github.com/Neko-22)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
