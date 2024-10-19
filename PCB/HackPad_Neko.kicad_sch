@@ -1331,6 +1331,12 @@
 		(uuid "c44bb888-35b4-4465-b1de-4221d712501d")
 	)
 	(junction
+		(at 184.15 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c9d26b90-03ab-4519-8f39-06e192659090")
+	)
+	(junction
 		(at 179.07 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1383,15 +1389,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fd2b3605-04d1-47ce-8edf-c98262e45ecb")
-	)
-	(bus_entry
-		(at 181.61 58.42)
-		(size 2.54 2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "73b329e7-bf31-40aa-8364-1256d3438a61")
 	)
 	(wire
 		(pts
