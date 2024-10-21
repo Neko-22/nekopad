@@ -1,4 +1,4 @@
-# Nekopad
+# Legally Distinct Catpad
 Created for Hack Club Hackpad
 ## BOM
 - 20x Cherry MX style switches
