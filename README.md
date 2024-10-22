@@ -13,3 +13,4 @@ Created for Hack Club Hackpad
 This was hell ngl. I am absolutely *awful* at electronics design, and combine that with the joys of Linux software compatability regarding Fusion 360, I have lost so much sleep over this. I honestly think the firmware was the easiest part of this, and that's saying something.
 
 10/10 experience would do again.
+![image](https://github.com/user-attachments/assets/8d3d9938-145d-4476-b546-8ca179e96ace)
