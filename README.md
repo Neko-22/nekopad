@@ -9,8 +9,9 @@ Created for Hack Club Hackpad
 - 1x Bottom Case (3D Print)
 - 1x Top Case (3D Print)
 - 1x Plate (Acryllic Laser Cut)
+- 4x M3 screws
 ## Notes
 This was hell ngl. I am absolutely *awful* at electronics design, and combine that with the joys of Linux software compatability regarding Fusion 360, I have lost so much sleep over this. I honestly think the firmware was the easiest part of this, and that's saying something.
 
 10/10 experience would do again.
-![image](https://github.com/user-attachments/assets/8d3d9938-145d-4476-b546-8ca179e96ace)
+![case v7](https://github.com/user-attachments/assets/99e4c70f-4565-4258-819f-55cb0bc23bf0)
